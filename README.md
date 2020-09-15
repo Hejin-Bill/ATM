@@ -16,3 +16,18 @@ There are 4 levels of menu:
 ***Level 1***
 
 [![Level 1](https://github.com/Hejin-Bill/ATM/blob/master/L1.png)]()
+
+
+***Level 2: After log in***
+
+[![Level 2: After log in](https://github.com/Hejin-Bill/ATM/blob/master/L2.png)]()
+
+***Level 3: Select an account***
+
+[![Level 3: Select an account](https://github.com/Hejin-Bill/ATM/blob/master/L3.png)]()
+- Select `Cancel` will return to level 2.
+
+***Level 4: Select an operation***
+
+[![Level 3: Select an operation](https://github.com/Hejin-Bill/ATM/blob/master/L4.png)]()
+- Select `Cancel` will return to level 3.
