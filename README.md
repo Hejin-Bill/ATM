@@ -31,3 +31,17 @@ There are 4 levels of menu:
 
 [![Level 3: Select an operation](https://github.com/Hejin-Bill/ATM/blob/master/L4.png)]()
 - Select `Cancel` will return to level 3.
+
+### Step 3
+When shut down the system (option 3 in level 1), all the user information will be saved in the file of given path. The file is in `.txt` format for debug convenience.
+The pattern of the data file is shown below:
+```javascript
+Number_of_user
+CardNum Card_Number_1
+PIN PIN_1
+Number_of_account
+Account_name_1 Account_balance_1
+...
+CardNum Card_Number_2
+...
+```
